@@ -181,3 +181,4 @@ plt.subplot(3,1,3)
 plt.plot(new_k,theory,'r')
 plt.title('Theoretical Rossby prediction')
 plt.show()
+
